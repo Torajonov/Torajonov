@@ -17,7 +17,7 @@
 ## Core Skills
 
  
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
+- 👨‍💻 <b>Backend</b> :  Python / Django / Ajax
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI,  RSuite
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - 📫 <b>Languages</b> : JavaScript,SwiftUI,UI KIT, HTML5, CSS/SCSS/LESS, Python, Solidity, Rust
